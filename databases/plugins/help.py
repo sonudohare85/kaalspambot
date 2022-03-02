@@ -3,7 +3,7 @@ from telethon import events, Button
 from telethon.tl.custom import button
 from time import time
 from datetime import datetime
-from Godfather import CMD_HNDLR as hl
+from databases import CMD_HNDLR as hl
     
 HELP_PIC = "https://te.legra.ph/file/9c426032f68839db25c0d.jpg"
 
